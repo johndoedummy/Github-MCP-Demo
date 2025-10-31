@@ -1,0 +1,24 @@
+{
+  "name": "github-mcp-demo",
+  "version": "1.0.0",
+  "description": "Demo repository created by the GitHub MCP agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rammcodes/Github-MCP-Demo.git"
+  },
+  "keywords": [
+    "demo",
+    "github",
+    "mcp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rammcodes/Github-MCP-Demo/issues"
+  },
+  "homepage": "https://github.com/rammcodes/Github-MCP-Demo#readme"
+}
